@@ -6,3 +6,41 @@ export_presets.cfg
 
 # Mono-specific ignores
 .mono/
+
+# Misc
+.DS_Store
+logs/
+
+# for projects that use SCons for building: http://http://www.scons.org/
+.sconf_temp
+.sconsign.dblite
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+*.debug
+*.dSYM
+
+godot.creator.*
+
+# Scons progress indicator
+.scons_node_count
+
+
+# General c++ generated files
+*.lib
+*.o
+*.ox
+*.a
+*.ax
+*.d
+*.so
+*.os
+*.Plo
+*.lo
