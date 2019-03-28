@@ -14,7 +14,7 @@ func gameOver():
   $HUD.showGameOver()
   $BackgroundMusic.stop()
   $DeathSound.play()
-  
+
 func newGame():
   score = 0
   $Player.start($StartPosition.position)
