@@ -15,11 +15,11 @@ font_data = ExtResource( 2 )
 size = 36
 font_data = ExtResource( 2 )
 
-[sub_resource type="InputEventAction" id=6]
+[sub_resource type="InputEventAction" id=4]
 action = "ui_select"
 
 [sub_resource type="ShortCut" id=5]
-shortcut = SubResource( 6 )
+shortcut = SubResource( 4 )
 
 [node name="HUD" type="CanvasLayer"]
 script = ExtResource( 1 )
