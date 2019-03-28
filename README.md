@@ -13,7 +13,7 @@ My goal is to do game development in C++, not because it's better; simply becaus
 
 ## Contributing
 
-Contributions are always welcome!
+I'm not planning to update this repo, still contributions are always welcome!
 
 When contributing to this repository, please first discuss the change you wish to make via the issue tracker, email, or any other method with the owner of this repository before making a change.
 
